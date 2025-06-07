@@ -167,4 +167,4 @@ echo 1 > brightness
 echo 0 > brightness
 ```
 
-Para perguntas, sugestões ou feedback, entre em contato com o mantenedor do projeto em [maintainer@example.com](mailto:maintainer@example.com).
+Para perguntas, sugestões ou feedback, entre em contato com o mantenedor do projeto em [guilherme.silveira@icomp.ufam.edu.br](mailto:guilherme.silveira@icomp.ufam.edu.br).
